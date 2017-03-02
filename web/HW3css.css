@@ -1,0 +1,13 @@
+body{background-color: #92a8d1;}
+table, th, td {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+body {
+    color: #f0f0f0;
+}
+h1 {
+    color: #ffeead;
+    text-align: center;
+}
